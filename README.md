@@ -28,7 +28,7 @@ The [video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw8
 - Create a Dataset
   - Name it `OCR demo dataset`
   - Create a Recipe (aka Ontology) for a catalog
-  - Catalog consists of Labels (aka classes) and Attributes
+  - Catalog consists of Labels (aka Classes) and Attributes
   - 1111
     - AAAA
     - BBBB
