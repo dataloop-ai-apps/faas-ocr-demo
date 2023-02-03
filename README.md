@@ -17,7 +17,7 @@ Before you try this at home….please be sure you have the following prerequisit
 8. Verify that this user can log into the Dataloop.al platform via DTLPY
 9. Have a second user on your Dataloop.ai account to use as an Annotator in the Labeling task assignment
 10. Download the files from these folders in this repository:
-- Sample Code[sample dataset here](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/dataset%20files)
+- [Sample Code](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/sample%20code)
 - [Sample Dataset Files](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/dataset%20files)
 
 The [video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw81zazzZq?origin=4cXRgiQFJqZCWFXQkELs2EkPq182&t=0) will walk you through the following:
