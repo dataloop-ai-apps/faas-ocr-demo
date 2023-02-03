@@ -14,10 +14,13 @@ Before you try this at home….please be sure you have the following prerequisit
 6. Dataloop.ai subscription with at least a Pro subscription package
 - See the Subscription page accessible via the Dataloop.ai console
 7. Have a user on a Dataloop.ai account with Owner or Developer role
-8. Have a second user on your Dataloop.ai account to use as an Annotator in the Labeling task assignment
-9. Verify that this user can log into the Dataloop.al platform via DTLPY
+8. Verify that this user can log into the Dataloop.al platform via DTLPY
+9. Have a second user on your Dataloop.ai account to use as an Annotator in the Labeling task assignment
+10. Download the files from these folders in this repository:
+- Sample Code[sample dataset here](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/dataset%20files)
+- [Sample Dataset Files](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/dataset%20files)
 
-The video demo playlist will walk you through the following:
+The [video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw81zazzZq?origin=4cXRgiQFJqZCWFXQkELs2EkPq182&t=0) will walk you through the following:
 
 - Create Project
   - name is `Class with Attributes Example`
@@ -42,7 +45,7 @@ The video demo playlist will walk you through the following:
   - Add FaaS step that leverages the OCR FaaS you created and loaded
   - Add a Workflow step that creates a Task and with a QA Assignment
   - Execute the pipeline
-- Navigate to the Dataset you created previously and upload dataset files from the [sample dataset here](https://github.com/dataloop-ai-apps/faas-ocr-demo/)
+- Navigate to the Dataset you created previously and upload dataset files from the [sample dataset here](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/dataset%20files)
 - Log out and log in as an Annotator user
   - Locate and complete the Labeling Assignment
 - Log out and log in with Owner or Developer user
