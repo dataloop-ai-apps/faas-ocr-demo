@@ -23,7 +23,7 @@ The video demo playlist will walk you through the following:
   - name is `Class with Attributes Example`
   - Add Annotator from another domain
 - Create a Dataset
-  - Name it “OCR demo dataset”
+  - Name it `OCR demo dataset`
   - Create a Recipe (aka Ontology) for a catalog
   - Catalog consists of Labels (aka classes) and Attributes
   - 1111
