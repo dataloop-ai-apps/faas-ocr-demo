@@ -1,6 +1,10 @@
-# faas-ocr-demo
+# Use the Dataloop.ai platform and Python SDK to create a simple Function as a Service (FaaS) for OCR on .txt files
 
-# Simple Automation Demo using Dataloop.ai Python SDK to create a simple Function as a Service (FaaS) for OCR
+Ever wonder what it takes to do a little OCR on Text files but don't know where to start?  Well...here's you're answer.  Sign up for an account on the [Dataloop.ai](https://console.dataloop.ai/welcome) platform, upgrade to the Pro package and give this example a try.
+
+**Audience:**  This example is meant for people with a working knowledge of Python, data labeling and QA methods, and that have an Optical Character Recognition (OCR) AI training data creation use case that they need to satisfy.  
+
+**Outcome:**  Once complete, you'll have a basic understanding of what is involved in using the Dataloop.ai platform to build a basic data labeling and QA pipleline that extracts via OCR the values of the labeled data in .txt files in a dataset.  You'll also take away a JSON output file that includes the .txt file metadata as well as the labels and extracted OCR values for you to use to train a model.
 
 In this repository you will find the code samples and dataset files needed to go from start to finish covered by [these video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw81zazzZq?origin=4cXRgiQFJqZCWFXQkELs2EkPq182&t=0)
 
@@ -11,8 +15,8 @@ Before you try this at home….please be sure you have the following prerequisit
 3. PIP3 installed and validated
 4. DTLPY - the Dataloop SDK - installed and validated
 5. Your favorite Python IDE set up with an empty project
-6. Dataloop.ai subscription with at least a Pro subscription package
-- See the Subscription page accessible via the Dataloop.ai console
+6. **Dataloop.ai subscription with at least a Pro subscription package**
+- See the [Subscription page accessible via the Dataloop.ai console](https://console.dataloop.ai/iam/6af0b572-1ff2-46fc-b1ee-d16275c58f7f/account?tab=subscription)
 7. Have a user on a Dataloop.ai account with Owner or Developer role
 8. Verify that this user can log into the Dataloop.al platform via DTLPY
 9. Have a second user on your Dataloop.ai account to use as an Annotator in the Labeling task assignment
