@@ -26,7 +26,7 @@ Before you try this at home….please be sure you have the following prerequisit
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="700px" height="400px" src="https://embed.app.guidde.co/playlists/hdmN19SmnZjuCw81zazzZq" title="Guidde embed video" frameborder="0" allowfullscreen ></iframe>
+  <iframe src="https://embed.app.guidde.co/playlists/hdmN19SmnZjuCw81zazzZq" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
