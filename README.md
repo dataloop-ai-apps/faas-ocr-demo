@@ -24,7 +24,11 @@ Before you try this at home….please be sure you have the following prerequisit
 - [Sample Code](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/sample%20code)
 - [Sample Dataset Files](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/dataset%20files)
 
-[![Semantic description of image](/images/path/to/folder/image.png "Simple Automation Demo using Dataloop FaaS for OCR")*Video Demonstrations*][https://app.guidde.co/share/playlists/hdmN19SmnZjuCw81zazzZq?origin=4cXRgiQFJqZCWFXQkELs2EkPq182&t=0]
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="700px" height="400px" src="https://embed.app.guidde.co/playlists/hdmN19SmnZjuCw81zazzZq" title="Guidde embed video" frameborder="0" allowfullscreen ></iframe>
+</figure>
+<!-- blank line -->
 
 The [video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw81zazzZq?origin=4cXRgiQFJqZCWFXQkELs2EkPq182&t=0) will walk you through the following:
 
