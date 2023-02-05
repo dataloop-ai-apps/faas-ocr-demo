@@ -24,11 +24,7 @@ Before you try this at home….please be sure you have the following prerequisit
 - [Sample Code](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/sample%20code)
 - [Sample Dataset Files](https://github.com/dataloop-ai-apps/faas-ocr-demo/tree/main/dataset%20files)
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://embed.app.guidde.co/playlists/hdmN19SmnZjuCw81zazzZq" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+<a href="https://app.guidde.co/share/playlists/hdmN19SmnZjuCw81zazzZq?origin=4cXRgiQFJqZCWFXQkELs2EkPq182&t=0" rel="some text">![Video Demonstrations](http://www.google.com.au/images/nav_logo7.png)</a>
 
 The [video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw81zazzZq?origin=4cXRgiQFJqZCWFXQkELs2EkPq182&t=0) will walk you through the following:
 
