@@ -1,10 +1,10 @@
 # Use the Dataloop.ai platform and Python SDK to create a simple Function as a Service (FaaS) for OCR on .txt files
 
-Ever wonder what it takes to do a little OCR on Text files but don't know where to start?  Well...here's you're answer.  Sign up for an account on the [Dataloop.ai](https://console.dataloop.ai/welcome) platform, upgrade to the Pro package and give this example a try.
+Ever wonder what it takes to do a little OCR on Text files but don't know where to start?  Well...here's your answer.  Sign up for an account on the [Dataloop.ai](https://console.dataloop.ai/welcome) platform, upgrade to the Pro package and give this example a try.
 
 **Audience:**  This example is meant for people with a working knowledge of Python, data labeling and QA methods, and that have an Optical Character Recognition (OCR) AI training data creation use case that they need to satisfy.  
 
-**Outcome:**  Once complete, you'll have a basic understanding of what is involved in using the Dataloop.ai platform to build a basic data labeling and QA pipleline that extracts via OCR the values of the labeled data in .txt files in a dataset.  You'll also take away a JSON output file that includes the .txt file metadata as well as the labels and extracted OCR values for you to use to train a model.
+**Outcome:**  Once complete, you'll have a basic understanding of what is involved in using the Dataloop.ai platform to build a basic data labeling and QA pipeline that extracts via OCR the values of the labeled data in .txt files in a dataset.  You'll also take away a JSON output file that includes the .txt file metadata as well as the labels and extracted OCR values for you to use to train a model.
 
 In this repository you will find the code samples and dataset files needed to go from start to finish covered by [these video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw81zazzZq?origin=4cXRgiQFJqZCWFXQkELs2EkPq182&t=0)
 
@@ -65,3 +65,7 @@ The [video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw8
 - Export the JSON file that contains the annotation data
 
 Good luck and please leave stars or feedback letting us know how things went for you.
+
+If you’re feeling confident in your new found knowledge, _and we hope you are_, feel free to sumit create a branch and update the code to do something additional or unique.  When ready, submit a pull request and we’ll do a quick code review, run it through our test harness, and give you feedback.  
+
+If all looks good **including your documentation that accompanies your submission** we’ll approve the merge or post the branch as a separate repository.  Your documentation will help us determine what path is best for your code, so please don’t skip this step.
