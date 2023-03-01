@@ -66,6 +66,6 @@ The [video demonstrations](https://app.guidde.co/share/playlists/hdmN19SmnZjuCw8
 
 Good luck and please leave stars or feedback letting us know how things went for you.
 
-If you’re feeling confident in your new found knowledge, _and we hope you are_, feel free to sumit create a branch and update the code to do something additional or unique.  When ready, submit a pull request and we’ll do a quick code review, run it through our test harness, and give you feedback.  
+If you’re feeling confident in your new found knowledge, _and we hope you are_, feel free to create a branch and update the code to do something additional or unique.  When ready, submit a pull request and we’ll do a quick code review, run it through our test harness, and give you feedback.  
 
 If all looks good **including your documentation that accompanies your submission** we’ll approve the merge or post the branch as a separate repository.  Your documentation will help us determine what path is best for your code, so please don’t skip this step.
